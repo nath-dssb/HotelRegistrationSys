@@ -1,0 +1,5 @@
+125, 1, Asiatico, Single
+203, 2, Arte, Doble
+76, 0, Terror, Triple
+98, 0, Comodidad, Doble
+102, 1, Lujo, Multiple

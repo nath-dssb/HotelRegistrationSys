@@ -1,0 +1,10 @@
+com\mycompany\hotelregistration\Reservation.class
+com\mycompany\hotelregistration\Host.class
+com\mycompany\hotelregistration\MainSystem.class
+com\mycompany\hotelregistration\PersonBuilder.class
+com\mycompany\hotelregistration\HotelRegistration.class
+com\mycompany\hotelregistration\Person.class
+com\mycompany\hotelregistration\ReservationBuilder.class
+com\mycompany\hotelregistration\DataManager.class
+com\mycompany\hotelregistration\Employee.class
+com\mycompany\hotelregistration\HotelRoom.class

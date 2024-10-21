@@ -1,0 +1,6 @@
+Morticia, Addams, 31-10-1997, Pasaporte, Calle Falsa#123, Funeraria
+Sherlock, Holmes, 14-02-1995, Pasaporte, Calle Falsa#123, Detective
+Harry, Potter, 13-12-2001, Licencia, Calle Falsa#123, Mago
+Tony, Stark, 13-02-1997, Pasaporte, Calle Falsa#123, Cientifico
+Ben, Barnes, 12-03-1995, Pasaporte, Calle Falsa#123, Actor
+Jake, El perro, 10-10-1998, Licencia, Tierra de OOO, Heroe

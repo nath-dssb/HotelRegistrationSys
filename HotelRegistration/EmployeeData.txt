@@ -1,0 +1,8 @@
+Juanito, Perez, 12-03-1998, INE, Calle Falsa#123, Bellhop, contrasena123
+Maria, Perez, 17-12-1999, Pasaporte, Calle Falsa#123, Receptionist, pimpampum1
+Soledad, Perez, 20-01-2000, Licencia de manejo, Calle False#123, Waitress, perritoguau
+James, Perez, 19-11-2001, Credencial, Calle Falsa#123, Bellhop, gatitomiau
+Pedrito, Perez, 15-08-1995, Cartilla, Calle Falsa#123, Chef, nosequeponer
+Manganeso, Perez, 16-05-1993, CURP, Calle Falsa#123, Manager, tengosueno56
+Manganesa, Perez, 16-05-1993, CURP, Calle Falsa#123, Housekeeper, tengohambre76
+Julio, Perez, 16-12-2001, Pasaporte, Calle desconocida#123, Receptionist, fulanito456

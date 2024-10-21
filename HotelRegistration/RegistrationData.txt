@@ -1,0 +1,6 @@
+12-02-2024, 13-03-2024, 125, Ben Barnes, 1, Juanito Perez
+12-02-2024, 13-03-2024, 203, Harry Potter, 1, Juanito Perez
+12-02-2024, 13-03-2024, 76, Tony Stark, 2, Soledad Perez
+12-02-2024, 13-03-2024, 98, Ben Barnes, 1, Manganeso Perez
+12-02-2024, 13-03-2024, 102, Morticia Addams, 5, Maria Perez
+13-05-2024, 20-05-2024, 76, Ben Barnes, 0, Manganesa Perez
